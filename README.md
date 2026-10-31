@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jeevan — IT Director, passionate about AI, Data, Cloud & AI!<br><br>🔭 I’m currently working on Scalable Data Pipelines, DevOps, building solutions, Cloud Migrations & GenAI Solutions<br>👯 I’m looking to collaborate on Open-Source Data Engineering, AI Agents & Cloud Projects<br>🤝 I’m looking for help with Building Innovative AI-Powered Data Engineering Tools<br>🌱 I’m currently learning Apache Kafka, GenAI Agents & Modern Data Architectures<br>💬 Ask me about Database, SQL, Python, Azure, AWS, GCP & Data Engineering Careers
+👋 Hi, I'm Jeevan — IT Director, passionate about Data, Cloud & AI!<br><br>🔭 I’m currently working on Scalable Data Pipelines, DevOps, building solutions, Cloud Migrations & GenAI Solutions<br>👯 I’m looking to collaborate on Open-Source Data Engineering, AI Agents & Cloud Projects<br>🤝 I’m looking for help with Building Innovative AI-Powered Data Engineering Tools<br>🌱 I’m currently learning Apache Kafka, GenAI Agents & Modern Data Architectures<br>💬 Ask me about Database, SQL, Python, Azure, AWS, GCP & Data Engineering Careers
 
 
 ## 🌐 Socials:
